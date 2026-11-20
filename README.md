@@ -33,7 +33,7 @@
 <p>The estimates make the trade-off visible: less estimated risk can also mean less estimated growth.</p>
 <p>Python / FastAPI / SQLite / JavaScript</p>
 </details>
-<p><sub>Independent project, still in development. The archive covers 46 stocks and funds from 2013 to 2017. No live prices or real trades.</sub></p>
+<p><sub>Independent project. The archive covers 46 stocks and funds from 2013 to 2017. No live prices or real trades.</sub></p>
 
 <a name="tiktok-2020"></a>
 <h2>TikTok 2020</h2>
