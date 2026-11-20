@@ -3,7 +3,7 @@
 <p>I study computer science at DigiPen/SIT in Singapore and am looking for software engineering internships. Before this, I studied accountancy and finance. My projects focus on C++ game engine tools and backend systems.</p>
 <p>Assetwise is where the finance background shows up. TikTok 2020 is what happened when I realised I’d missed a whole corner of lockdown internet.</p>
 
-<p><a href="https://foo-rq.github.io/">Portfolio</a> / <a href="mailto:ruiqinfoo@gmail.com">Email</a> / <a href="https://www.linkedin.com/in/rui-qin-foo/">LinkedIn</a> / <a href="assets/resume.pdf">Résumé</a></p>
+<p><a href="https://foo-rq.github.io/">Portfolio</a> / <a href="mailto:ruiqinfoo@gmail.com">Email</a> / <a href="https://www.linkedin.com/in/rui-qin-foo/">LinkedIn</a></p>
 
 <p><a href="#grapeengine"><img src="assets/grapeengine-profile.png" width="49%" alt="Explore GrapeEngine, our team’s C++ game engine and editor."></a> <a href="#assetwise"><img src="assets/assetwise-profile.png" width="49%" alt="Explore Assetwise, my portfolio analysis application."></a></p>
 <p><a href="#grapeengine">GrapeEngine</a> / <a href="#assetwise">Assetwise</a> / <a href="#tiktok-2020">TikTok 2020</a> / <a href="#more-engineering-work">More engineering work</a></p>
@@ -60,5 +60,5 @@
 
 <hr>
 <p>I’ve also been a C/C++ teaching assistant at DigiPen and a finance intern at GetGo. I’m looking for software engineering internships, especially in systems and backend development.</p>
-<p><a href="mailto:ruiqinfoo@gmail.com">Get in touch</a> / <a href="assets/resume.pdf">Read my résumé</a></p>
+<p><a href="mailto:ruiqinfoo@gmail.com">Get in touch</a></p>
 <p><sub>Some source repositories remain private. Team-project descriptions refer to my contributions.</sub></p>
