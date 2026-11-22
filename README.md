@@ -5,26 +5,27 @@
 
 <p><a href="https://foo-rq.github.io/">Portfolio</a> / <a href="mailto:ruiqinfoo@gmail.com">Email</a> / <a href="https://www.linkedin.com/in/rui-qin-foo/">LinkedIn</a></p>
 
-<p><a href="#grapeengine"><img src="assets/grapeengine-profile.png" width="49%" alt="Explore GrapeEngine, our team’s C++ game engine and editor."></a> <a href="#assetwise"><img src="assets/assetwise-profile.png" width="49%" alt="Explore Assetwise, my portfolio analysis application."></a></p>
 <p><a href="#grapeengine">GrapeEngine</a> / <a href="#coin-rush">Coin Rush</a> / <a href="#assetwise">Assetwise</a> / <a href="#spatia">Spatia</a> / <a href="#tradingsystem">TradingSystem</a> / <a href="#tiktok-2020">TikTok 2020</a></p>
 
 <a name="grapeengine"></a>
 <h2>GrapeEngine</h2>
 <p><sub>Team project / Technical lead / C++, Dear ImGui, CMake</sub></p>
 <p>A C++ game engine and editor built for <em>Echoes Below</em>. I built the memory-pool allocator and worked on resource caching, entity/component editing, prefabs, selection, copy/paste and undo.</p>
-<p><a href="https://foo-rq.github.io/grapeengine.html">Project details</a> / <a href="https://github.com/Chaotic-Grapes/GrapeEngine">Source</a> / <a href="assets/grapeengine-editor-demo.mp4?raw=true">Editor demo</a></p>
+<p><a href="https://foo-rq.github.io/grapeengine.html"><img src="assets/grapeengine-editor.png" width="480" alt="GrapeEngine editor with an Echoes Below test level. Open project details."></a></p>
+<p><a href="https://foo-rq.github.io/grapeengine.html">Project details</a> / <a href="https://github.com/Chaotic-Grapes/GrapeEngine">Source</a> / <a href="https://foo-rq.github.io/assets/grapeengine-editor-demo.mp4">Editor video</a></p>
 
 <a name="coin-rush"></a>
 <h2>Coin Rush</h2>
 <p><sub>Team project / C, Cyclone DDS, OpenSSL</sub></p>
 <p>A multiplayer game for two to five players: catch coins, dodge bombs and settle a tie with another round. I worked on DDS networking and security, match progression and Linux performance analysis.</p>
-<p><a href="https://foo-rq.github.io/coin-rush.html"><img src="assets/coin-rush-menu.png" width="420" alt="Coin Rush menu with create-room and join-room controls."></a></p>
+<p><a href="https://foo-rq.github.io/coin-rush.html"><img src="assets/coin-rush-menu.png" width="480" alt="Coin Rush menu with create-room and join-room controls."></a></p>
 <p><a href="https://foo-rq.github.io/coin-rush.html">Project details</a> / <a href="https://github.com/jingwen121/LLPAssignment">Source</a></p>
 
 <a name="assetwise"></a>
 <h2>Assetwise</h2>
 <p><sub>Independent project / Python, FastAPI, SQLite, JavaScript</sub></p>
 <p>A portfolio analysis app for comparing allocations, overlapping fund holdings and estimated risk and growth. I built the interface, Python/FastAPI backend and SQLite storage, including revision checks that protect newer edits from stale saves.</p>
+<p><a href="https://foo-rq.github.io/assetwise.html"><img src="assets/assetwise-portfolio.png" width="480" alt="Assetwise allocations and analysis. Open project details."></a></p>
 <p><a href="https://foo-rq.github.io/assetwise.html">Project details</a> / <a href="https://github.com/foo-rq/assetwise">Source</a> / <a href="https://assetwise-demo.onrender.com/">Open live app</a></p>
 
 <a name="spatia"></a>
@@ -45,8 +46,8 @@
 <h2>TikTok 2020</h2>
 <p><sub>Independent project / JavaScript, HTML, CSS</sub></p>
 <p>I wasn’t on TikTok during lockdown, so I built a browser app for the videos I’d missed. I built the feed, Discover, search, archived comments and saved likes with plain JavaScript.</p>
-<p><a href="assets/tiktok-portfolio-demo.mp4?raw=true"><img src="assets/tiktok-portfolio-poster.jpg" width="30%" alt="Watch the TikTok 2020 app demo."></a> <a href="assets/tiktok-discover.jpg"><img src="assets/tiktok-profile-discover.png" width="30%" alt="TikTok 2020 Discover screen."></a> <a href="assets/tiktok-comments.jpg"><img src="assets/tiktok-profile-comments.png" width="30%" alt="TikTok 2020 archived comments."></a></p>
-<p><a href="https://foo-rq.github.io/tiktok-2020.html">Project details</a> / <a href="https://github.com/foo-rq/tiktok-2020">Source</a> / <a href="https://foo-rq.github.io/tiktok-2020/">Open live app</a> / <a href="assets/tiktok-portfolio-demo.mp4?raw=true">Video walkthrough</a></p>
+<p><a href="https://foo-rq.github.io/assets/tiktok-portfolio-demo.mp4"><img src="assets/tiktok-profile-preview.png" width="480" alt="TikTok 2020 feed, Discover and comments. Watch the video walkthrough."></a></p>
+<p><a href="https://foo-rq.github.io/tiktok-2020.html">Project details</a> / <a href="https://github.com/foo-rq/tiktok-2020">Source</a> / <a href="https://foo-rq.github.io/tiktok-2020/">Open live app</a> / <a href="https://foo-rq.github.io/assets/tiktok-portfolio-demo.mp4">Video walkthrough</a></p>
 
 <hr>
 <p><a href="mailto:ruiqinfoo@gmail.com">Get in touch</a></p>
