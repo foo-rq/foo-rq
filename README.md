@@ -18,7 +18,6 @@
 <summary>My engine work, in more detail</summary>
 <p>I built a memory-pool allocator with an address-ordered free list. I also worked on resource caching, entity/component editing and prefab tools.</p>
 <a href="assets/grapeengine-editor.png"><img src="assets/grapeengine-editor.png" width="860" alt="Full GrapeEngine editor screenshot with scene hierarchy, component inspector and asset browser."></a>
-<p><sub>Team project. The editor screenshot and normal-speed, muted recording come from team footage. My contributions are described above.</sub></p>
 </details>
 
 <a name="coin-rush"></a>
@@ -66,4 +65,3 @@
 
 <hr>
 <p><a href="mailto:ruiqinfoo@gmail.com">Get in touch</a></p>
-<p><sub>Some source repositories remain private. Team-project descriptions refer to my contributions.</sub></p>
