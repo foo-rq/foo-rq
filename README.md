@@ -25,11 +25,10 @@
 
 <a name="coin-rush"></a>
 <h2>Coin Rush</h2>
-<p><a href="https://foo-rq.github.io/coin-rush.html"><img src="assets/coin-rush-menu.png" width="580" alt="Coin Rush menu with create-room and join-room controls. View the project write-up."></a></p>
-<p>A networked C game for two to five players: catch coins, dodge bombs and settle a tie with another round. I worked on the DDS networking and security, match progression and Linux performance analysis.</p>
-<p>I configured certificate-based identities, signed publish/subscribe permissions and encrypted DDS traffic. I also compared four collision/update variants with Linux perf over 100 runs each, measuring 14.19% lower mean batch runtime for the SSE2 variant than the scalar baseline.</p>
-<p><a href="https://foo-rq.github.io/coin-rush.html">Read the project write-up and benchmark results</a> / <a href="https://github.com/jingwen121/LLPAssignment">Browse the team source</a></p>
-<p><sub>Team project. My work includes security configuration and profiling; a teammate implemented SIMD. The measured improvement is for a batch benchmark, not game frame rate.</sub></p>
+<p><a href="https://foo-rq.github.io/coin-rush.html"><img src="assets/coin-rush-menu.png" width="420" alt="Coin Rush menu with create-room and join-room controls. View the project write-up."></a></p>
+<p>A team-built C game for two to five players: catch coins, dodge bombs and settle a tie with another round. I worked on DDS networking and security, match progression and Linux profiling.</p>
+<p><a href="https://foo-rq.github.io/coin-rush.html">Read the project write-up</a> / <a href="https://github.com/jingwen121/LLPAssignment">Browse the team source</a></p>
+<details><summary>More about my networking and profiling work</summary><p>I configured certificate identities, signed topic permissions and encrypted DDS traffic. I compared four variants with Linux perf over 100 runs each, measuring 14.19% lower mean batch runtime for SSE2 than scalar. A teammate implemented SIMD; my work here was profiling and analysis. This measures the batch workload, not game frame rate.</p><p>C / Cyclone DDS / OpenSSL / Linux perf</p></details>
 
 <a name="assetwise"></a>
 <h2>Assetwise</h2>
