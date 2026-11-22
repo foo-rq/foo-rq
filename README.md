@@ -10,6 +10,7 @@
 
 <a name="grapeengine"></a>
 <h2>GrapeEngine</h2>
+<p><sub>Team project / Technical lead / C++, Dear ImGui, CMake</sub></p>
 <p>Our team built a C++ game engine and editor for <em>Echoes Below</em>. The editor lets the team assemble levels and edit game entities and their components.</p>
 <p>I built the memory-pool allocator and worked on cached resource loading and editor tools, including selection, copy/paste, undo and prefabs.</p>
 <p><a href="https://foo-rq.github.io/grapeengine.html">Read the project write-up</a> / <a href="https://github.com/Chaotic-Grapes/GrapeEngine">Browse the engine source</a> / <a href="assets/grapeengine-editor-demo.mp4?raw=true">Open the 20-second editor demo (MP4)</a></p>
@@ -18,18 +19,19 @@
 <p>I built a memory-pool allocator with an address-ordered free list. I also worked on resource caching, entity/component editing and prefab tools.</p>
 <a href="assets/grapeengine-editor.png"><img src="assets/grapeengine-editor.png" width="860" alt="Full GrapeEngine editor screenshot with scene hierarchy, component inspector and asset browser."></a>
 <p><sub>Team project. The editor screenshot and normal-speed, muted recording come from team footage. My contributions are described above.</sub></p>
-<p>C++ / Dear ImGui / CMake</p>
 </details>
 
 <a name="coin-rush"></a>
 <h2>Coin Rush</h2>
+<p><sub>Team project / C, Cyclone DDS, OpenSSL</sub></p>
 <p><a href="https://foo-rq.github.io/coin-rush.html"><img src="assets/coin-rush-menu.png" width="420" alt="Coin Rush menu with create-room and join-room controls. View the project write-up."></a></p>
 <p>A team-built C game for two to five players: catch coins, dodge bombs and settle a tie with another round. I worked on DDS networking and security, match progression and Linux profiling.</p>
 <p><a href="https://foo-rq.github.io/coin-rush.html">Read the project write-up</a> / <a href="https://github.com/jingwen121/LLPAssignment">Browse the team source</a></p>
-<details><summary>More about my networking and profiling work</summary><p>I configured certificate identities, signed topic permissions and encrypted DDS traffic. I compared four variants with Linux perf over 100 runs each, measuring 14.19% lower mean batch runtime for SSE2 than scalar. A teammate implemented SIMD; my work here was profiling and analysis. This measures the batch workload, not game frame rate.</p><p>C / Cyclone DDS / OpenSSL / Linux perf</p></details>
+<details><summary>More about my networking and profiling work</summary><p>I configured certificate identities, signed topic permissions and encrypted DDS traffic. I compared four variants with Linux perf over 100 runs each, measuring 14.19% lower mean batch runtime for SSE2 than scalar. A teammate implemented SIMD; my work here was profiling and analysis. This measures the batch workload, not game frame rate.</p></details>
 
 <a name="assetwise"></a>
 <h2>Assetwise</h2>
+<p><sub>Independent project / Python, FastAPI, SQLite, JavaScript</sub></p>
 <p>Assetwise is a portfolio analysis web app for building practice portfolios and comparing allocations. It shows when funds hold the same companies and puts estimated risk and growth beside each proposed change.</p>
 <p>I built the Python/FastAPI backend, plain JavaScript interface and SQLite portfolio storage. Saves catch conflicting edits rather than overwrite a newer version.</p>
 <p><a href="https://foo-rq.github.io/assetwise.html">Read the project write-up</a> / <a href="https://github.com/foo-rq/assetwise">Browse the source</a></p>
@@ -37,27 +39,27 @@
 <summary>See a portfolio comparison</summary>
 <a href="assets/assetwise-comparison-live.png"><img src="assets/assetwise-comparison-live.png" width="580" alt="Current and proposed allocations with lower modelled growth and volatility shown side by side."></a>
 <p>The estimates make the trade-off visible: less estimated risk can also mean less estimated growth.</p>
-<p>Python / FastAPI / SQLite / JavaScript</p>
 </details>
 <p><sub>Independent project. The archive covers 46 stocks and funds from 2013 to 2017. No live prices or real trades.</sub></p>
 
 <a name="spatia"></a>
 <h2>Spatia</h2>
+<p><sub>Team project, ongoing / TypeScript, C#, PostgreSQL</sub></p>
 <p><a href="assets/spatia-editor-sample.png"><img src="assets/spatia-editor-sample.png" width="580" alt="Spatia’s team editor with a local sample exhibition."></a></p>
-<p><sub>Spatia team editor, running locally with a sample exhibition.</sub></p>
 <p>A team-built browser editor for creating and publishing interactive 3D exhibitions. I worked on shared TypeScript/C# document validation, draft recovery and revision-aware autosave, plus publication access and asset administration. The project is ongoing.</p>
 <p><a href="https://foo-rq.github.io/spatia.html">Read about my Spatia work</a></p>
-<details><summary>More about my Spatia work</summary><p>My work also includes serialization and reconstruction, IndexedDB recovery, import/export, protected asset delivery and deployment checks. The screenshot shows the team application with a local sample exhibition.</p><p>TypeScript / C# / PostgreSQL</p></details>
+<details><summary>More about my Spatia work</summary><p>My work also includes serialization and reconstruction, IndexedDB recovery, import/export, protected asset delivery and deployment checks. The screenshot shows the team application with a local sample exhibition.</p></details>
 <a name="tradingsystem"></a>
 <h2>TradingSystem</h2>
+<p><sub>Team project / C++, Winsock, SQLite</sub></p>
 <p><a href="assets/trading-markets.png"><img src="assets/trading-markets.png" width="580" alt="TradingSystem’s team interface with simulated prices."></a></p>
-<p><sub>TradingSystem team interface, using simulated market data.</sub></p>
 <p>A team-built simulated trading platform, with a C++ server and web interface for viewing markets and placing orders. I added concurrent client handling, atomic settlement and persisted order sequencing so price-time priority survives a restart.</p>
 <p><a href="https://foo-rq.github.io/trading-system.html">Read about my trading backend work</a></p>
-<details><summary>More about my trading backend work</summary><p>I worked on per-connection client workers, checked settlement writes and rollback handling. Related work includes persisting the latest price and validating JWT expiry.</p><p>C++ / Winsock / SQLite</p><p>The screenshot shows the team interface with simulated data. My contribution is to the backend.</p></details>
+<details><summary>More about my trading backend work</summary><p>I worked on per-connection client workers, checked settlement writes and rollback handling. Related work includes persisting the latest price and validating JWT expiry.</p><p>The screenshot shows the team interface with simulated data. My contribution is to the backend.</p></details>
 
 <a name="tiktok-2020"></a>
 <h2>TikTok 2020</h2>
+<p><sub>Independent project / JavaScript, HTML, CSS</sub></p>
 <p>TikTok 2020 is a browser app for archived videos and comments. I built the feed, Discover, search and saved likes with plain JavaScript.</p>
 <p>I wasn’t on TikTok during lockdown, so I built this to browse the videos I’d missed.</p>
 <p><a href="assets/tiktok-portfolio-demo.mp4?raw=true"><img src="assets/tiktok-portfolio-poster.jpg" width="30%" alt="Watch the TikTok 2020 app demo."></a> <a href="assets/tiktok-discover.jpg"><img src="assets/tiktok-profile-discover.png" width="30%" alt="TikTok 2020 Discover screen."></a> <a href="assets/tiktok-comments.jpg"><img src="assets/tiktok-profile-comments.png" width="30%" alt="TikTok 2020 archived comments."></a></p>
