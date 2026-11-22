@@ -25,28 +25,28 @@
 <h2>Assetwise</h2>
 <p><sub>Independent project / Python, FastAPI, SQLite, JavaScript</sub></p>
 <p>A portfolio analysis app for comparing allocations, overlapping fund holdings and estimated risk and growth. I built the interface, Python/FastAPI backend and SQLite storage, including revision checks that protect newer edits from stale saves.</p>
-<p><a href="https://foo-rq.github.io/assetwise.html"><img src="assets/assetwise-portfolio.png" width="480" alt="Assetwise allocations and analysis. Open project details."></a></p>
+<p><a href="https://foo-rq.github.io/assetwise.html"><img src="assets/assetwise-retaken.png" width="480" alt="Assetwise allocations and analysis. Open project details."></a></p>
 <p><a href="https://foo-rq.github.io/assetwise.html">Project details</a> / <a href="https://github.com/foo-rq/assetwise">Source</a> / <a href="https://assetwise-demo.onrender.com/">Open live app</a></p>
 
 <a name="spatia"></a>
 <h2>Spatia</h2>
 <p><sub>Team project, ongoing / TypeScript, C#, PostgreSQL</sub></p>
 <p>A browser editor for creating and publishing interactive 3D exhibitions. My work covers shared document validation, draft recovery, revision-aware autosave, publication access and asset administration.</p>
-<p><a href="https://foo-rq.github.io/spatia.html"><img src="assets/spatia-editor-sample.png" width="480" alt="Spatia’s team editor with a local sample exhibition."></a></p>
+<p><a href="https://foo-rq.github.io/spatia.html"><img src="assets/spatia-retaken.png" width="480" alt="Spatia’s team editor with a local sample exhibition."></a></p>
 <p><a href="https://foo-rq.github.io/spatia.html">Project details</a></p>
 
 <a name="tradingsystem"></a>
 <h2>TradingSystem</h2>
 <p><sub>Team project / C++, Winsock, SQLite</sub></p>
 <p>A simulated trading platform with a C++ server and web interface. I added concurrent client handling, atomic trade settlement and persisted order sequencing so price-time priority survives a restart.</p>
-<p><a href="https://foo-rq.github.io/trading-system.html"><img src="assets/trading-markets.png" width="480" alt="TradingSystem’s team interface with simulated prices."></a></p>
+<p><a href="https://foo-rq.github.io/trading-system.html"><img src="assets/trading-retaken.png" width="480" alt="TradingSystem’s team interface with simulated prices."></a></p>
 <p><a href="https://foo-rq.github.io/trading-system.html">Project details</a></p>
 
 <a name="tiktok-2020"></a>
 <h2>TikTok 2020</h2>
 <p><sub>Independent project / JavaScript, HTML, CSS</sub></p>
 <p>I wasn’t on TikTok during lockdown, so I built a browser app for the videos I’d missed. I built the feed, Discover, search, archived comments and saved likes with plain JavaScript.</p>
-<p><a href="https://foo-rq.github.io/assets/tiktok-portfolio-demo.mp4"><img src="assets/tiktok-no-bars.png" width="480" alt="TikTok 2020 feed, Discover and comments. Watch the video walkthrough."></a></p>
+<p><a href="https://foo-rq.github.io/assets/tiktok-portfolio-demo.mp4"><img src="assets/tiktok-retaken.png" width="480" alt="TikTok 2020 feed, Discover and comments. Watch the video walkthrough."></a></p>
 <p><a href="https://foo-rq.github.io/tiktok-2020.html">Project details</a> / <a href="https://github.com/foo-rq/tiktok-2020">Source</a> / <a href="https://foo-rq.github.io/tiktok-2020/">Open live app</a> / <a href="https://foo-rq.github.io/assets/tiktok-portfolio-demo.mp4">Video walkthrough</a></p>
 
 <hr>
