@@ -37,7 +37,6 @@
 <p><a href="https://foo-rq.github.io/assetwise.html">Read the project write-up</a> / <a href="https://github.com/foo-rq/assetwise">Browse the source</a></p>
 <details>
 <summary>See a portfolio comparison</summary>
-<p><a href="assets/assetwise-portfolio.png">Open the full portfolio screenshot</a></p>
 <a href="assets/assetwise-comparison-live.png"><img src="assets/assetwise-comparison-live.png" width="580" alt="Current and proposed allocations with lower modelled growth and volatility shown side by side."></a>
 <p>The estimates make the trade-off visible: less estimated risk can also mean less estimated growth.</p>
 <p>Python / FastAPI / SQLite / JavaScript</p>
@@ -46,14 +45,14 @@
 
 <a name="spatia"></a>
 <h2>Spatia</h2>
-<p><a href="assets/spatia-editor-sample.png"><img src="assets/spatia-editor-sample.png" width="580" alt="Spatia’s team editor with a local sample exhibition. Open full-size screenshot."></a></p>
+<p><a href="assets/spatia-editor-sample.png"><img src="assets/spatia-editor-sample.png" width="580" alt="Spatia’s team editor with a local sample exhibition."></a></p>
 <p><sub>Spatia team editor, running locally with a sample exhibition.</sub></p>
 <p>A team-built browser editor for creating and publishing interactive 3D exhibitions. I worked on shared TypeScript/C# document validation, draft recovery and revision-aware autosave, plus publication access and asset administration. The project is ongoing.</p>
 <p><a href="https://foo-rq.github.io/spatia.html">Read about my Spatia work</a></p>
 <details><summary>More about my Spatia work</summary><p>My work also includes serialization and reconstruction, IndexedDB recovery, import/export, protected asset delivery and deployment checks. The screenshot shows the team application with a local sample exhibition.</p><p>TypeScript / C# / PostgreSQL</p></details>
 <a name="tradingsystem"></a>
 <h2>TradingSystem</h2>
-<p><a href="assets/trading-markets.png"><img src="assets/trading-markets.png" width="580" alt="TradingSystem’s team interface with simulated prices. Open full-size screenshot."></a></p>
+<p><a href="assets/trading-markets.png"><img src="assets/trading-markets.png" width="580" alt="TradingSystem’s team interface with simulated prices."></a></p>
 <p><sub>TradingSystem team interface, using simulated market data.</sub></p>
 <p>A team-built simulated trading platform, with a C++ server and web interface for viewing markets and placing orders. I added concurrent client handling, atomic settlement and persisted order sequencing so price-time priority survives a restart.</p>
 <p><a href="https://foo-rq.github.io/trading-system.html">Read about my trading backend work</a></p>
@@ -63,7 +62,7 @@
 <h2>TikTok 2020</h2>
 <p>TikTok 2020 is a browser app for archived videos and comments. I built the feed, Discover, search and saved likes with plain JavaScript.</p>
 <p>I wasn’t on TikTok during lockdown, so I built this to browse the videos I’d missed.</p>
-<p><a href="assets/tiktok-portfolio-demo.mp4?raw=true"><img src="assets/tiktok-portfolio-poster.jpg" width="30%" alt="Watch the TikTok 2020 app demo."></a> <a href="assets/tiktok-discover.jpg"><img src="assets/tiktok-profile-discover.png" width="30%" alt="Open the full-size Discover screenshot."></a> <a href="assets/tiktok-comments.jpg"><img src="assets/tiktok-profile-comments.png" width="30%" alt="Open the full-size archived comments screenshot."></a></p>
+<p><a href="assets/tiktok-portfolio-demo.mp4?raw=true"><img src="assets/tiktok-portfolio-poster.jpg" width="30%" alt="Watch the TikTok 2020 app demo."></a> <a href="assets/tiktok-discover.jpg"><img src="assets/tiktok-profile-discover.png" width="30%" alt="TikTok 2020 Discover screen."></a> <a href="assets/tiktok-comments.jpg"><img src="assets/tiktok-profile-comments.png" width="30%" alt="TikTok 2020 archived comments."></a></p>
 <p><a href="https://foo-rq.github.io/tiktok-2020.html">Read the project write-up</a> / <a href="assets/tiktok-portfolio-demo.mp4?raw=true">Open the 18-second app demo (MP4)</a> / <a href="https://github.com/foo-rq/tiktok-2020">Browse the source</a></p>
 <p><sub>Independent project, plain JavaScript. The demo shows playback, sound, comments, swiping, Discover, search and Inbox. Videos and comments belong to their original creators.</sub></p>
 
