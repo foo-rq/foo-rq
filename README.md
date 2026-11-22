@@ -1,9 +1,7 @@
 <h1>Foo Rui Qin</h1>
 
-<p>I’m a computer science student at DigiPen/SIT in Singapore, studying Real-Time Interactive Simulation. I work on C++ game engines, backend systems and web applications.</p>
-<p>I was the technical lead on GrapeEngine, working on its memory allocator, resource loading and editor tools. I’ve also built web applications independently and worked on how team projects save and recover their data.</p>
-<p>I came to computer science after studying accountancy and finance at Temasek Polytechnic. I’ve also been a C/C++ teaching assistant at DigiPen, helping students debug assignments and work through programming concepts.</p>
-<p>I spent three months at DigiPen’s Redmond campus in Washington as part of my degree. I’m looking for software engineering internships, especially in systems, backend development and developer tools.</p>
+<p>I’m a computer science student at DigiPen/SIT in Singapore, mainly working in C/C++. My projects span game engines, networking and backend systems.</p>
+<p>I previously studied accountancy and finance, worked as a C/C++ teaching assistant and spent three months at DigiPen’s Redmond campus. I’m looking for software engineering internships from May 2027.</p>
 
 <p><a href="https://foo-rq.github.io/">Portfolio</a> / <a href="mailto:ruiqinfoo@gmail.com">Email</a> / <a href="https://www.linkedin.com/in/rui-qin-foo/">LinkedIn</a></p>
 
