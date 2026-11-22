@@ -40,7 +40,6 @@
 <a href="assets/assetwise-comparison-live.png"><img src="assets/assetwise-comparison-live.png" width="580" alt="Current and proposed allocations with lower modelled growth and volatility shown side by side."></a>
 <p>The estimates make the trade-off visible: less estimated risk can also mean less estimated growth.</p>
 </details>
-<p><sub>Independent project. The archive covers 46 stocks and funds from 2013 to 2017. No live prices or real trades.</sub></p>
 
 <a name="spatia"></a>
 <h2>Spatia</h2>
