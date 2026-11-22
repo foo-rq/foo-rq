@@ -5,7 +5,7 @@
 
 <p><a href="https://foo-rq.github.io/">Portfolio</a> / <a href="mailto:ruiqinfoo@gmail.com">Email</a> / <a href="https://www.linkedin.com/in/rui-qin-foo/">LinkedIn</a></p>
 
-<p><a href="#grapeengine">GrapeEngine</a> / <a href="#coin-rush">Coin Rush</a> / <a href="#assetwise">Assetwise</a> / <a href="#spatia">Spatia</a> / <a href="#tradingsystem">TradingSystem</a> / <a href="#tiktok-2020">TikTok 2020</a></p>
+<p><a href="https://foo-rq.github.io/grapeengine.html"><img src="assets/grapeengine-profile.png" width="49%" alt="GrapeEngine: C++ game engine and editor. Open project details."></a> <a href="https://foo-rq.github.io/assetwise.html"><img src="assets/assetwise-profile.png" width="49%" alt="Assetwise: portfolio analysis app. Open project details."></a></p>
 
 <a name="grapeengine"></a>
 <h2>GrapeEngine</h2>
