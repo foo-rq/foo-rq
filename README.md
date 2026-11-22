@@ -29,7 +29,7 @@
 <a name="spatia"></a>
 <h2>Spatia</h2>
 <p><sub>Team project, ongoing / TypeScript, C#, PostgreSQL</sub></p>
-<p>A browser editor for creating and publishing interactive 3D exhibitions. My work covers shared document validation, draft recovery, revision-aware autosave, publication access and asset administration.</p>
+<p>A platform where students build interactive 3D exhibitions and share them with selected viewers. I worked on how exhibits are saved and recovered and who can view them after publication.</p>
 <p><a href="https://foo-rq.github.io/spatia.html"><img src="assets/spatia-wide.png" width="480" alt="Spatia’s team editor with a local sample exhibition."></a></p>
 <p><a href="https://foo-rq.github.io/spatia.html">Project details</a></p>
 
