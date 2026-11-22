@@ -8,7 +8,7 @@
 <p><a href="https://foo-rq.github.io/">Portfolio</a> / <a href="mailto:ruiqinfoo@gmail.com">Email</a> / <a href="https://www.linkedin.com/in/rui-qin-foo/">LinkedIn</a></p>
 
 <p><a href="#grapeengine"><img src="assets/grapeengine-profile.png" width="49%" alt="Explore GrapeEngine, our team’s C++ game engine and editor."></a> <a href="#assetwise"><img src="assets/assetwise-profile.png" width="49%" alt="Explore Assetwise, my portfolio analysis application."></a></p>
-<p><a href="#grapeengine">GrapeEngine</a> / <a href="#assetwise">Assetwise</a> / <a href="#spatia">Spatia</a> / <a href="#tradingsystem">TradingSystem</a> / <a href="#tiktok-2020">TikTok 2020</a></p>
+<p><a href="#grapeengine">GrapeEngine</a> / <a href="#coin-rush">Coin Rush</a> / <a href="#assetwise">Assetwise</a> / <a href="#spatia">Spatia</a> / <a href="#tradingsystem">TradingSystem</a> / <a href="#tiktok-2020">TikTok 2020</a></p>
 
 <a name="grapeengine"></a>
 <h2>GrapeEngine</h2>
@@ -22,6 +22,14 @@
 <p><sub>Team project. The editor screenshot and normal-speed, muted recording come from team footage. My contributions are described above.</sub></p>
 <p>C++ / Dear ImGui / CMake</p>
 </details>
+
+<a name="coin-rush"></a>
+<h2>Coin Rush</h2>
+<p><a href="https://foo-rq.github.io/coin-rush.html"><img src="assets/coin-rush-menu.png" width="580" alt="Coin Rush menu with create-room and join-room controls. View the project write-up."></a></p>
+<p>A networked C game for two to five players: catch coins, dodge bombs and settle a tie with another round. I worked on the DDS networking and security, match progression and Linux performance analysis.</p>
+<p>I configured certificate-based identities, signed publish/subscribe permissions and encrypted DDS traffic. I also compared four collision/update variants with Linux perf over 100 runs each, measuring 14.19% lower mean batch runtime for the SSE2 variant than the scalar baseline.</p>
+<p><a href="https://foo-rq.github.io/coin-rush.html">Read the project write-up and benchmark results</a> / <a href="https://github.com/jingwen121/LLPAssignment">Browse the team source</a></p>
+<p><sub>Team project. My work includes security configuration and profiling; a teammate implemented SIMD. The measured improvement is for a batch benchmark, not game frame rate.</sub></p>
 
 <a name="assetwise"></a>
 <h2>Assetwise</h2>
