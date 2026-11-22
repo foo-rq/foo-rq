@@ -25,7 +25,7 @@
 <h2>Assetwise</h2>
 <p><sub>Independent project / Python, FastAPI, SQLite, JavaScript</sub></p>
 <p>A portfolio analysis app for comparing allocations, overlapping fund holdings and estimated risk and growth. I built the interface, Python/FastAPI backend and SQLite storage, including revision checks that protect newer edits from stale saves.</p>
-<p><a href="https://foo-rq.github.io/assetwise.html">Project details</a> / <a href="https://github.com/foo-rq/assetwise">Source</a> / <a href="https://assetwise-demo.onrender.com/">Demo</a></p>
+<p><a href="https://foo-rq.github.io/assetwise.html">Project details</a> / <a href="https://github.com/foo-rq/assetwise">Source</a> / <a href="https://assetwise-demo.onrender.com/">Open live app</a></p>
 
 <a name="spatia"></a>
 <h2>Spatia</h2>
@@ -46,7 +46,7 @@
 <p><sub>Independent project / JavaScript, HTML, CSS</sub></p>
 <p>I wasn’t on TikTok during lockdown, so I built a browser app for the videos I’d missed. I built the feed, Discover, search, archived comments and saved likes with plain JavaScript.</p>
 <p><a href="assets/tiktok-portfolio-demo.mp4?raw=true"><img src="assets/tiktok-portfolio-poster.jpg" width="30%" alt="Watch the TikTok 2020 app demo."></a> <a href="assets/tiktok-discover.jpg"><img src="assets/tiktok-profile-discover.png" width="30%" alt="TikTok 2020 Discover screen."></a> <a href="assets/tiktok-comments.jpg"><img src="assets/tiktok-profile-comments.png" width="30%" alt="TikTok 2020 archived comments."></a></p>
-<p><a href="https://foo-rq.github.io/tiktok-2020.html">Project details</a> / <a href="https://github.com/foo-rq/tiktok-2020">Source</a> / <a href="assets/tiktok-portfolio-demo.mp4?raw=true">App demo</a></p>
+<p><a href="https://foo-rq.github.io/tiktok-2020.html">Project details</a> / <a href="https://github.com/foo-rq/tiktok-2020">Source</a> / <a href="https://foo-rq.github.io/tiktok-2020/">Open live app</a> / <a href="assets/tiktok-portfolio-demo.mp4?raw=true">Video walkthrough</a></p>
 
 <hr>
 <p><a href="mailto:ruiqinfoo@gmail.com">Get in touch</a></p>
