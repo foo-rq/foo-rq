@@ -3,7 +3,6 @@
 <p>I’m a computer science student at DigiPen/SIT in Singapore, looking for software engineering internships. I work on C++ game engine tools, backend systems and web applications.</p>
 <p>Before computer science, I studied accountancy and finance. I’ve also been a C/C++ teaching assistant at DigiPen.</p>
 
-<p><a href="https://foo-rq.github.io/">Portfolio</a> / <a href="mailto:ruiqinfoo@gmail.com">Email</a> / <a href="https://www.linkedin.com/in/rui-qin-foo/">LinkedIn</a></p>
 
 <p><a href="https://foo-rq.github.io/"><img src="assets/portfolio-work-preview.png" width="49%" alt="Portfolio website. Explore my work."></a> <a href="https://foo-rq.github.io/about.html"><img src="assets/portfolio-about-preview.png" width="49%" alt="About page. Read about my background."></a></p>
 <p><a href="https://foo-rq.github.io/">Portfolio</a> / <a href="mailto:ruiqinfoo@gmail.com">Email</a> / <a href="https://www.linkedin.com/in/rui-qin-foo/">LinkedIn</a></p>
