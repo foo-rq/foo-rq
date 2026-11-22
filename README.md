@@ -46,7 +46,7 @@
 <h2>TikTok 2020</h2>
 <p><sub>Independent project / JavaScript, HTML, CSS</sub></p>
 <p>I wasn’t on TikTok during lockdown, so I built a browser app for the videos I’d missed. I built the feed, Discover, search, archived comments and saved likes with plain JavaScript.</p>
-<p><a href="https://foo-rq.github.io/assets/tiktok-portfolio-demo.mp4"><img src="assets/tiktok-portfolio-poster.jpg" width="30%" alt="TikTok 2020 video feed. Watch the walkthrough."></a> <a href="https://foo-rq.github.io/tiktok-2020.html"><img src="assets/tiktok-profile-discover.png" width="30%" alt="TikTok 2020 Discover screen."></a> <a href="https://foo-rq.github.io/tiktok-2020.html"><img src="assets/tiktok-profile-comments.png" width="30%" alt="TikTok 2020 archived comments screen."></a></p>
+<p><a href="https://foo-rq.github.io/assets/tiktok-portfolio-demo.mp4"><img src="assets/tiktok-retaken.png" width="480" alt="TikTok 2020 feed, Discover and comments. Watch the video walkthrough."></a></p>
 <p><a href="https://foo-rq.github.io/tiktok-2020.html">Project details</a> / <a href="https://github.com/foo-rq/tiktok-2020">Source</a> / <a href="https://foo-rq.github.io/tiktok-2020/">Open live app</a> / <a href="https://foo-rq.github.io/assets/tiktok-portfolio-demo.mp4">Video walkthrough</a></p>
 
 <hr>
