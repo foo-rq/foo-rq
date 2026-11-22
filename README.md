@@ -25,7 +25,7 @@
 <h2>Assetwise</h2>
 <p><sub>Independent project / Python, FastAPI, SQLite, JavaScript</sub></p>
 <p>A portfolio analysis app for comparing allocations, overlapping fund holdings and estimated risk and growth. I built the interface, Python/FastAPI backend and SQLite storage, including revision checks that protect newer edits from stale saves.</p>
-<p><a href="https://foo-rq.github.io/assetwise.html">Project details</a> / <a href="https://github.com/foo-rq/assetwise">Source</a></p>
+<p><a href="https://foo-rq.github.io/assetwise.html">Project details</a> / <a href="https://github.com/foo-rq/assetwise">Source</a> / <a href="https://assetwise-demo.onrender.com/">Demo</a></p>
 
 <a name="spatia"></a>
 <h2>Spatia</h2>
