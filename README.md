@@ -4,7 +4,7 @@
 <p>Before computer science, I studied accountancy and finance. I’ve also been a C/C++ teaching assistant at DigiPen.</p>
 
 
-<p><a href="https://foo-rq.github.io/"><img src="assets/portfolio-work-preview.png" width="49%" alt="Portfolio website. Explore my work."></a> <a href="https://foo-rq.github.io/about.html"><img src="assets/portfolio-about-preview.png" width="49%" alt="About page. Read about my background."></a></p>
+<p><a href="https://foo-rq.github.io/"><img src="assets/portfolio-work-preview.png" width="49%" alt="Portfolio website. Explore my work."></a><img src="assets/snapshot-gap.svg" width="2%" height="1" alt=""><a href="https://foo-rq.github.io/about.html"><img src="assets/portfolio-about-preview.png" width="49%" alt="About page. Read about my background."></a></p>
 <p><a href="https://foo-rq.github.io/">Portfolio</a> / <a href="mailto:ruiqinfoo@gmail.com">Email</a> / <a href="https://www.linkedin.com/in/rui-qin-foo/">LinkedIn</a></p>
 
 <a name="grapeengine"></a>
